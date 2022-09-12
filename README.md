@@ -14,7 +14,8 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Software: Python 3.7, Visual Studio Code: 1.71.0
 
 ## Summary
-The analysis of the elction show that: 
+### Candidate Breakdown
+The analysis of the election show that: 
 - There were 369,711 votes cast in the election. 
 - The candidates were:
     - Charles Casper Stockham
@@ -24,5 +25,19 @@ The analysis of the elction show that:
     - Charles Casper Stockham received 23.0% of the votes and 85,213 number of votes.
     - Diana DeGette received 73.8% of the votes and 272,892 number of votes.
     - Raymon Anthony Doane received 3.1% of the votes and 11,606 number of votes.
-- The winner of the elction was :
+- The winner of the election was :
     - Diana DeGette who received 73.8% of the votes and 272,892 number of votes. 
+
+### County Breakdown
+The analysis of the election show that:
+- The counties were:
+    - Jefferson
+    - Denver
+    - Arapahoe
+- The counties results were 
+    - Jefferson county received 10.5% of the votes and 38,855 number of votes.
+    - Denver county received 82.8% of the votes and 306,055 number of votes. 
+    - Arapahoe county received 6.7% of the votes and 24,801 number of votes. 
+- The county with the largest turnout is **Denver**
+
+![image](https://user-images.githubusercontent.com/104419959/189574082-4f508179-31bc-446e-a8fd-dbcd531f9f19.png)
