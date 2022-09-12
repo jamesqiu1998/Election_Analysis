@@ -45,5 +45,5 @@ The analysis of the election show that:
 
 ## Audit Summary
 ### This script could be use to analyze many different aspects in a voting system.
-Firstly, we are able to comapre the different candidates and thet amount of votes they received. We are able to visualize how many votes each candidates received and what is the percentage received for each one of them. Since there are over tens of thousands of votes, this script allows us to easily collect and collate votes person. 
-Secondly, we can also use this script to mark out the different geographic location for voters across a state, or even countries. We are able to visualize which state shows interest in which politician. This can allow for breakdown of votes being received, and also indicate which county or state has the least amount of votes as it might be a rising issue with lack of votes. 
+- Firstly, we are able to comapre the different candidates and thet amount of votes they received. We are able to visualize how many votes each candidates received and what is the percentage received for each one of them. Since there are over tens of thousands of votes, this script allows us to easily collect and collate votes person. 
+- Secondly, we can also use this script to mark out the different geographic location for voters across a state, or even countries. We are able to visualize which state shows interest in which politician. This can allow for breakdown of votes being received, and also indicate which county or state has the least amount of votes as it might be a rising issue with lack of votes. 
